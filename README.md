@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saisarantottempudi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning srmap
-- 💞️ I’m looking to collaborate on MNC's
 - 📫 How to reach me through email
 
 <!---
