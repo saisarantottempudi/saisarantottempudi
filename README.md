@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saisarantottempudi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning srmap
-- 📫 How to reach me through email
+
 
 <!---
 saisarantottempudi/saisarantottempudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
