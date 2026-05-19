@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Saran%20Tottempudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Data%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  MSc AI &amp; Data Analytics — Loughborough University London &nbsp;|&nbsp; BSc Computer Science (AI &amp; ML) — SRM University
+  MSc AI &amp; Data Analytics — Loughborough University London &nbsp;|&nbsp; BTech Computer Science (AI &amp; ML) — SRM University
 </p>
 
 <p align="center">
