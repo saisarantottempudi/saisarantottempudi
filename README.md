@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tottempudi-sai-saran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:saisarant28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:tottempudisaisaran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
   <a href="https://orcid.org/0009-0007-3904-523X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </p>
